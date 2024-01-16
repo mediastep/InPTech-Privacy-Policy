@@ -10,7 +10,7 @@ Người đăng ký sử dụng dịch vụ sẽ được xem là người sở 
 
 ĐIỀU 3: ĐIỀU KIỆN CHUNG
 
-Bạn cần phải đọc và đồng ý toàn bộ điều khoản dịch vụ sử dụng dưới đây trước khi trở thành người dùng của InPTech. Bạn không được sử dụng dịch vụ của InPTech cho bất kỳ điều gì phạm pháp. Điều này áp dụng với luật của từng nước nơi bạn kinh doanh cũng như luật của Việt Nam. Bạn không được quyền sao chép hay bán hay sử dụng bản điều khoản này cho các mục đích cá nhân mà không có sự cho phép bằng văn bản của InPTech. Bạn cũng không được sử dụng bất kỳ công cụ marketing nào liên quan đến Search Engine hay các phương pháp mua keyword (như Google Adwords) mà trong đó có chứa hình ảnh bản quyền, logo của InPTech. Mọi câu hỏi về Điều khoản dịch vụ bạn có thể gửi về QA gosell001@gmail.com Bạn cần được hiểu là thông tin nội dung trên website của bạn (không bao gồm thông tin thẻ tín dụng) sẽ không được mã hóa bảo mật như thông tin thẻ tín dụng. Bạn thừa nhận và đồng ý rằng bạn sẽ bị ràng buộc với bản điều khoản sử dụng này và thông tin bảo mật
+Bạn cần phải đọc và đồng ý toàn bộ điều khoản dịch vụ sử dụng dưới đây trước khi trở thành người dùng của InPTech. Bạn không được sử dụng dịch vụ của InPTech cho bất kỳ điều gì phạm pháp. Điều này áp dụng với luật của từng nước nơi bạn kinh doanh cũng như luật của Việt Nam. Bạn không được quyền sao chép hay bán hay sử dụng bản điều khoản này cho các mục đích cá nhân mà không có sự cho phép bằng văn bản của InPTech. Bạn cũng không được sử dụng bất kỳ công cụ marketing nào liên quan đến Search Engine hay các phương pháp mua keyword (như Google Adwords) mà trong đó có chứa hình ảnh bản quyền, logo của InPTech. Mọi câu hỏi về Điều khoản dịch vụ bạn có thể gửi về QA myan922@gmail.com Bạn cần được hiểu là thông tin nội dung trên website của bạn (không bao gồm thông tin thẻ tín dụng) sẽ không được mã hóa bảo mật như thông tin thẻ tín dụng. Bạn thừa nhận và đồng ý rằng bạn sẽ bị ràng buộc với bản điều khoản sử dụng này và thông tin bảo mật
 
 ĐIỀU 4: QUYỀN LỢI CỦA InPTech
 
@@ -32,7 +32,7 @@ InPTech khuyến cáo khách hàng nên đăng kí website thương mại điệ
 
 ĐIỀU 9: HỦY DỊCH VỤ
 
-Bạn có thể hủy tài khoản của mình bất kỳ lúc nào bằng việc email cho chúng tôi đến email QA gosell001@gmail.com và sau đó chúng tôi sẽ gửi bạn các hướng dẫn chi tiết. Một khi lệnh hủy được xác nhận, tất cả nội dung trên website của bạn sẽ bị xóa ngay lập tức. Nếu bạn hủy Dịch vụ vào khoảng giữa của chu kỳ thanh toán của bạn, bạn sẽ nhận được thông tin thông báo thanh toán đầy đủ qua email. Những chi phí dư hiện tại chúng tôi không hoàn trả. Chúng tôi có quyền thay đổi hoặc hủy bỏ Dịch vụ của InPTech dù bất kỳ lý do gì mà không cần phải thông báo.
+Bạn có thể hủy tài khoản của mình bất kỳ lúc nào bằng việc email cho chúng tôi đến email QA myan922@gmail.com và sau đó chúng tôi sẽ gửi bạn các hướng dẫn chi tiết. Một khi lệnh hủy được xác nhận, tất cả nội dung trên website của bạn sẽ bị xóa ngay lập tức. Nếu bạn hủy Dịch vụ vào khoảng giữa của chu kỳ thanh toán của bạn, bạn sẽ nhận được thông tin thông báo thanh toán đầy đủ qua email. Những chi phí dư hiện tại chúng tôi không hoàn trả. Chúng tôi có quyền thay đổi hoặc hủy bỏ Dịch vụ của InPTech dù bất kỳ lý do gì mà không cần phải thông báo.
 
 ĐIỀU 10: SỬA ĐỔI DỊCH VỤ VÀ GIÁ CẢ
 
@@ -58,7 +58,7 @@ Mục đích và phạm vi thu thập Việc thu thập dữ liệu chủ yếu 
 
 – Trong trường hợp có yêu cầu của pháp luật: Nền tảng quản lý bán hàng đa kênh InPTech có trách nhiệm hợp tác cung cấp thông tin cá nhân thành viên khi có yêu cầu từ cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của khách hàng. Ngoài ra, không ai có quyền xâm phạm vào thông tin cá nhân của thành viên. Thời gian lưu trữ thông tin Dữ liệu cá nhân của Thành viên sẽ được lưu trữ cho đến khi có yêu cầu hủy bỏ hoặc tự thành viên đăng nhập và thực hiện hủy bỏ. Còn lại trong mọi trường hợp thông tin cá nhân thành viên sẽ được bảo mật trên máy chủ của InPTech.
 
-Email: gosell001@gmail.com
+Email: myan922@gmail.com
 
 Phương tiện và công cụ để người dùng tiếp cận và chỉnh sửa dữ liệu cá nhân của mình. Thành viên có quyền tự kiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình bằng cách đăng nhập vào tài khoản và chỉnh sửa thông tin cá nhân hoặc yêu cầu InPTech thực hiện việc này. Thành viên có quyền gửi khiếu nại về việc lộ thông tin các nhân cho bên thứ 3 đến Ban quản trị của Sàn giao dịch thương mại điện tử InPTech. Khi tiếp nhận những phản hồi này, InPTech sẽ xác nhận lại thông tin, phải có trách nhiệm trả lời lý do và hướng dẫn thành viên khôi phục và bảo mật lại thông tin. Cam kết bảo mật thông tin cá nhân khách hàng Thông tin cá nhân của thành viên trên InPTech được InPTech cam kết bảo mật tuyệt đối theo chính sách bảo vệ thông tin cá nhân của InPTech.
 
